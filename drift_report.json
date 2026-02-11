@@ -1,0 +1,77 @@
+{
+  "canonical": {
+    "name": "Junteng Liu",
+    "current_position": "First-year PhD candidate at HKUST NLP Group",
+    "current_affiliation": "Hong Kong University of Science and Technology (HKUST)",
+    "phd_program": "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology",
+    "undergraduate": "B.Eng. (2020-2024) at Shanghai Jiao Tong University",
+    "undergraduate_graduation": "June 2024",
+    "research_focus": "Natural Language Processing and Machine Learning",
+    "research_interests": [
+      "LLM Reasoning and Reinforcement Learning",
+      "Hallucination in Vision-Language Models (VLM)",
+      "LLM truthfulness and Interpretability"
+    ],
+    "internships": [
+      "MINIMAX (Research Intern, February 2025 - Present)",
+      "Tencent WXG (Research Intern, June 2024 - September 2024)",
+      "Shanghai AI Lab (Research Intern, June 2023 - December 2023)"
+    ],
+    "selected_publications": [
+      "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond (2025)",
+      "On the Perception Bottleneck of VLMs for Chart Understanding (2025)",
+      "On the Universal Truthfulness Hyperplane Inside LLMs (EMNLP 2024)",
+      "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation (ICML 2024)",
+      "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models (NeurIPS 2023)",
+      "Composing Parameter-Efficient Modules with Arithmetic Operations (NeurIPS 2023)"
+    ],
+    "awards": [
+      "Zhiyuan Honor Scholarship at Shanghai Jiao Tong University"
+    ],
+    "contact_email": "jliugi@connect.ust.hk",
+    "github": "Vicent0205 (https://github.com/Vicent0205)",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate",
+    "x_account": "@junteng88716710"
+  },
+  "homepage": {
+    "repo_name": "LJT-Homepage",
+    "owner": "razvangabdumitru-spec",
+    "exists": false
+  },
+  "findings": [
+    {
+      "field": "current_affiliation",
+      "canonical": "Hong Kong University of Science and Technology (HKUST)",
+      "homepage": null,
+      "level": "CRITICAL",
+      "reason": "homepage repository missing"
+    },
+    {
+      "field": "phd_program",
+      "canonical": "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology",
+      "homepage": null,
+      "level": "CRITICAL",
+      "reason": "homepage repository missing"
+    },
+    {
+      "field": "undergraduate",
+      "canonical": "B.Eng. (2020-2024) at Shanghai Jiao Tong University",
+      "homepage": null,
+      "level": "CRITICAL",
+      "reason": "homepage repository missing"
+    },
+    {
+      "field": "undergraduate_graduation",
+      "canonical": "June 2024",
+      "homepage": null,
+      "level": "CRITICAL",
+      "reason": "homepage repository missing"
+    }
+  ],
+  "summary": {
+    "INFO": 0,
+    "WARN": 0,
+    "CRITICAL": 4
+  },
+  "generated_at": "2026-02-11T10:06:29Z"
+}
