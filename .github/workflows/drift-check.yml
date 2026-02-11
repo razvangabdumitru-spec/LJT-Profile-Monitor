@@ -1,0 +1,13 @@
+name: Drift check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Run drift monitor (placeholder)
+        run: echo "This action would run a drift check comparing canonical memory to LJT-Homepage."
